@@ -3,3 +3,9 @@ This is a basic JavaFX Mp4 Player.
 You can only Play & Pause the Player.
 You can open a new file or you can go fullscreen.
 
+
+
+
+  
+# You can edit & modify the source code.
+
